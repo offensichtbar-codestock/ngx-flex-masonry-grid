@@ -2,7 +2,7 @@
 
 ![Offensichtbar Logo](https://i.postimg.cc/nz9jhvpZ/osb-header-git.jpg)
 
-Angular Module for displaying items in a flex-based masonry layout without any third party dependencies. The grid layout only uses the css flexbox feature. In contrast to well-known Masonry layouts, doesn't use absolute positioning which makes usable for various css frameworks. The distances are calculated using a simple transform style (translateY).
+Angular Module for displaying items in a flex-based masonry layout without any third party dependencies. The grid layout only uses the css flexbox feature. In contrast to well-known Masonry layouts, doesn't use absolute positioning which makes usable for various css frameworks. The distances are calculated using a simple transform style (translateY)...
 
 [![npm version](https://badge.fury.io/js/offensichtbar-codestock%2Fngx-flex-masonry-grid.svg)](https://www.npmjs.com/package/offensichtbar-codestock%2Fngx-flex-masonry-grid)
 
