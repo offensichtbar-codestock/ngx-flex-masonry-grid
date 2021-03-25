@@ -20,11 +20,7 @@ import { takeWhile } from 'rxjs/operators';
     selector: 'osb-ngx-flexmasonry-grid',
      template: '<ng-content></ng-content> ', 
      styles: [`
-        :host { 
-            display: block; width: 100%;
-            transform-style: preserve-3d;
-            perspective: 1300px;
-        }
+        
 
         :host::ng-deep  > * {        
             visibility: hidden;
