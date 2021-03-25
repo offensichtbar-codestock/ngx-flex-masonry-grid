@@ -1,6 +1,6 @@
 {
   "name": "@offensichtbar-codestock/ngx-flex-masonry-grid",
-  "version": "11.0.5",
+  "version": "11.0.7",
   "description": "Angular Module for displaying items in a flex-based masonry layout without any third party dependencies",
   "keywords": [
     "angular",
