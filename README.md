@@ -129,7 +129,7 @@ export class DemoComponent {
 
 ## Public Methods
 
-The forceUpdateLayout () method is available to update the layout manually. This only works if all items are loaded and ready.
+The forceUpdateLayout() method is available to update the layout manually. This only works if all items are loaded and ready.
 
 ```typescript
   
