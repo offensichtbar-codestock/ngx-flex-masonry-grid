@@ -169,6 +169,6 @@ View live demo on stackblitz:\
 [stackblitz editor](https://stackblitz.com/edit/demo-ngx-flex-masonry-grid?file=src/app/app.component.ts)\
 [stackblitz live demo](https://demo-ngx-flex-masonry-grid.stackblitz.io)
 
-## MIT Licence
+## Licence
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![](https://img.shields.io/github/license/offensichtbar-codestock/ngx-flex-masonry-grid?color=%23009fe3)](https://opensource.org/licenses/MIT)
