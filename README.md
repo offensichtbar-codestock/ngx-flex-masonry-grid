@@ -168,3 +168,7 @@ Maybe provided in a future release
 View live demo on stackblitz:\
 [stackblitz editor](https://stackblitz.com/edit/demo-ngx-flex-masonry-grid?file=src/app/app.component.ts)\
 [stackblitz live demo](https://demo-ngx-flex-masonry-grid.stackblitz.io)
+
+## MIT Licence
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
