@@ -109,7 +109,8 @@ export class NgxFlexMasonryGridComponent implements OnInit, OnDestroy, AfterCont
     }
 
     private layout() {
-        
+        if(!this.items?.length)
+            return;
         this._cols = Math.round(this._element.nativeElement.offsetWidth / this.items.toArray()[0].width ); 
         this._rows = Math.ceil(this.items.length / this._cols);
         this._item_heights = this.items.map(el => el.height);      
