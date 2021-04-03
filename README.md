@@ -4,7 +4,7 @@
 
 Angular Module for displaying items in a flex-based masonry layout without any third party dependencies. The grid layout only uses the css flexbox feature. In contrast to well-known Masonry layouts, it doesn't use absolute positioning which makes it usable for various css frameworks. The distances are calculated using a simple transform style (translateY)...
 
-[![](https://img.shields.io/github/package-json/v/offensichtbar-codestock/ngx-flex-masonry-grid?color=%23009fe3)](https://github.com/offensichtbar-codestock/ngx-flex-masonry-grid) [![npm version](https://img.shields.io/npm/v/@offensichtbar-codestock/ngx-flex-masonry-grid?color=%23009fe3)](https://www.npmjs.com/package/offensichtbar-codestock/ngx-flex-masonry-grid)
+[![](https://img.shields.io/github/package-json/v/offensichtbar-codestock/ngx-flex-masonry-grid?color=%23009fe3)](https://github.com/offensichtbar-codestock/ngx-flex-masonry-grid) [![npm version](https://img.shields.io/npm/v/@offensichtbar-codestock/ngx-flex-masonry-grid?color=%23009fe3)](https://www.npmjs.com/package/@offensichtbar-codestock/ngx-flex-masonry-grid)
 
 ## Installation
 
